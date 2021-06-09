@@ -21,3 +21,4 @@ Soy parte del Team Freelance de dos consultoras. 💻
 📢 𝐏𝐘𝐓𝐇𝐎𝐍 𝐁𝐀𝐂𝐊𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐒𝐑 (Python / Django ó Flask / MongoDB / AWS / REST APIs ó GraphQL)  (📍ARG) 
 
 📢 𝐁𝐀𝐂𝐊𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐒𝐒𝐑 (📍MEX)  
+![conexion](https://user-images.githubusercontent.com/85374755/121421440-8b7b3a00-c944-11eb-986d-f476615019ac.jpg)
