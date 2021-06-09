@@ -1,6 +1,5 @@
 👋Hola a todos! 
 Mi nombre es Adriana Arce. 
-
 🎓Soy Licenciada en Relaciones Laborales🎓
 
 Me desempeño como 𝐈𝐓 𝐑𝐞𝐜𝐫𝐮𝐢𝐭𝐞𝐫 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞. 
